@@ -1,7 +1,7 @@
 {
   "name": "project_chat_application",
   "version": "0.1.0",
-  "homepage": "http://kadirumac.github.io/react-app-with-socket",
+  "homepage": "https://kadirumac.github.io/react-app-with-socket/",
   "private": true,
   "dependencies": {
     "query-string": "^6.11.0",
