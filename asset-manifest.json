@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-app-with-socket/static/css/main.5d41ca5f.chunk.css",
-    "main.js": "/react-app-with-socket/static/js/main.dad2d6b8.chunk.js",
-    "main.js.map": "/react-app-with-socket/static/js/main.dad2d6b8.chunk.js.map",
-    "runtime~main.js": "/react-app-with-socket/static/js/runtime~main.2dedd027.js",
-    "runtime~main.js.map": "/react-app-with-socket/static/js/runtime~main.2dedd027.js.map",
-    "static/js/2.cb3800a1.chunk.js": "/react-app-with-socket/static/js/2.cb3800a1.chunk.js",
-    "static/js/2.cb3800a1.chunk.js.map": "/react-app-with-socket/static/js/2.cb3800a1.chunk.js.map",
-    "index.html": "/react-app-with-socket/index.html",
-    "precache-manifest.41a31b5dabceffdfec69e9b194645f3e.js": "/react-app-with-socket/precache-manifest.41a31b5dabceffdfec69e9b194645f3e.js",
-    "service-worker.js": "/react-app-with-socket/service-worker.js",
-    "static/css/main.5d41ca5f.chunk.css.map": "/react-app-with-socket/static/css/main.5d41ca5f.chunk.css.map"
+    "main.css": "/los-chat/static/css/main.5d41ca5f.chunk.css",
+    "main.js": "/los-chat/static/js/main.6936d2a1.chunk.js",
+    "main.js.map": "/los-chat/static/js/main.6936d2a1.chunk.js.map",
+    "runtime~main.js": "/los-chat/static/js/runtime~main.cd4e6a1d.js",
+    "runtime~main.js.map": "/los-chat/static/js/runtime~main.cd4e6a1d.js.map",
+    "static/js/2.256c748c.chunk.js": "/los-chat/static/js/2.256c748c.chunk.js",
+    "static/js/2.256c748c.chunk.js.map": "/los-chat/static/js/2.256c748c.chunk.js.map",
+    "index.html": "/los-chat/index.html",
+    "precache-manifest.d54e403737d24747533f08656ab8ad4e.js": "/los-chat/precache-manifest.d54e403737d24747533f08656ab8ad4e.js",
+    "service-worker.js": "/los-chat/service-worker.js",
+    "static/css/main.5d41ca5f.chunk.css.map": "/los-chat/static/css/main.5d41ca5f.chunk.css.map"
   }
 }
