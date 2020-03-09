@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57c01fee7d3592f2f6f28c91c2685bff",
+    "revision": "7d5dac70272584a1d4876693f77be01d",
     "url": "/los-chat/index.html"
   },
   {
-    "revision": "ca927d4c3673f8a8a184",
-    "url": "/los-chat/static/css/main.5d41ca5f.chunk.css"
+    "revision": "815599d17702cdae1cb0",
+    "url": "/los-chat/static/css/main.9c28a18a.chunk.css"
   },
   {
     "revision": "d25f58751d0fd911b7aa",
     "url": "/los-chat/static/js/2.256c748c.chunk.js"
   },
   {
-    "revision": "ca927d4c3673f8a8a184",
-    "url": "/los-chat/static/js/main.90397eb7.chunk.js"
+    "revision": "815599d17702cdae1cb0",
+    "url": "/los-chat/static/js/main.3cb20b8f.chunk.js"
   },
   {
     "revision": "cf5ed973db2874d3aaca",
