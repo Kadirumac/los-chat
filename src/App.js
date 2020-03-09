@@ -7,7 +7,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename={`${process.env.PUBLIC_URL}/`}>
       <Route path="/" exact component={Join} />
       <Route path="/chat" component={Chat} />
     </Router>
