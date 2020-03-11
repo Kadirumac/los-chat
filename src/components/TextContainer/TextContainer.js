@@ -7,7 +7,7 @@ import './TextContainer.css';
 const TextContainer = ({ users }) => (
   <div className="textContainer">
     <div>
-      <h1>Los-Chat DCI <span role="img" aria-label="emoji"> 😃 </span></h1>
+      <h1>Bu App Alperene aittir <span role="img" aria-label="emoji"> 🦸‍♂️ </span></h1>
       <h2>Created with React, Express, Node and Socket.IO <span role="img" aria-label="emoji">🤓</span></h2>
       <h2>Sie können einfach versuchen <span role="img" aria-label="emoji">🧐</span></h2>
     </div>
