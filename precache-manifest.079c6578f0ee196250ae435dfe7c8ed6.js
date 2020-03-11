@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d5dac70272584a1d4876693f77be01d",
+    "revision": "677f39c8f1ca3403430a96b78a87d9dc",
     "url": "/los-chat/index.html"
   },
   {
-    "revision": "815599d17702cdae1cb0",
+    "revision": "4f86b3face8108992257",
     "url": "/los-chat/static/css/main.9c28a18a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/los-chat/static/js/2.256c748c.chunk.js"
   },
   {
-    "revision": "815599d17702cdae1cb0",
-    "url": "/los-chat/static/js/main.3cb20b8f.chunk.js"
+    "revision": "4f86b3face8108992257",
+    "url": "/los-chat/static/js/main.581fcd16.chunk.js"
   },
   {
     "revision": "cf5ed973db2874d3aaca",
