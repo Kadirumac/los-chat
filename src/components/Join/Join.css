@@ -33,10 +33,10 @@ html, body {
 }
 
 .heading {
-  color: white;
+  color: #1a5c25;
   font-size: 2.5em;
   padding-bottom: 10px;
-  border-bottom: 2px solid white;
+  border-bottom: 2px solid #1a5c25;
 }
 
 .button {
