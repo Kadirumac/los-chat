@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/los-chat/static/css/main.9c28a18a.chunk.css",
-    "main.js": "/los-chat/static/js/main.581fcd16.chunk.js",
-    "main.js.map": "/los-chat/static/js/main.581fcd16.chunk.js.map",
+    "main.css": "/los-chat/static/css/main.42dfc1c8.chunk.css",
+    "main.js": "/los-chat/static/js/main.5319d342.chunk.js",
+    "main.js.map": "/los-chat/static/js/main.5319d342.chunk.js.map",
     "runtime~main.js": "/los-chat/static/js/runtime~main.cd4e6a1d.js",
     "runtime~main.js.map": "/los-chat/static/js/runtime~main.cd4e6a1d.js.map",
     "static/js/2.256c748c.chunk.js": "/los-chat/static/js/2.256c748c.chunk.js",
     "static/js/2.256c748c.chunk.js.map": "/los-chat/static/js/2.256c748c.chunk.js.map",
     "index.html": "/los-chat/index.html",
-    "precache-manifest.079c6578f0ee196250ae435dfe7c8ed6.js": "/los-chat/precache-manifest.079c6578f0ee196250ae435dfe7c8ed6.js",
+    "precache-manifest.1683173cd332e7e8a4b3d9d5eceafdca.js": "/los-chat/precache-manifest.1683173cd332e7e8a4b3d9d5eceafdca.js",
     "service-worker.js": "/los-chat/service-worker.js",
-    "static/css/main.9c28a18a.chunk.css.map": "/los-chat/static/css/main.9c28a18a.chunk.css.map"
+    "static/css/main.42dfc1c8.chunk.css.map": "/los-chat/static/css/main.42dfc1c8.chunk.css.map",
+    "static/media/Join.css": "/los-chat/static/media/bg.0cdb2aeb.jpg"
   }
 }
